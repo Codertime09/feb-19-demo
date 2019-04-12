@@ -1,12 +1,10 @@
-Working with static member of class.
-Working with static method of class.
+Working with static member and static method of class.
 Accessing static member/method from different instance of class as global variable.
 Convert the Calculator class method to Static method.
 Accessing static member from Member function.
 Accessing data member from Static Fucntion. (Not allowed).
 Accessing static member/method using instance of class(Not Recommended)
-Working with constructor.
-Default and Zero Constructor.
+Working with constructor, Default Constructor and Zero Constructor.
 Parametrized and Overloaded constructor.
 Super Constructor and Constructor Chaining.
 
