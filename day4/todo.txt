@@ -1,0 +1,27 @@
+>> Mutable Object [User Define Class]
+>> ImMutable Object [String]
+>> String Pool
+>> String str = "hello";  Vs String str = new String("hello")
+>> StringBuilder and StringBuffer.
+
+## FOR STRING
+>> Reference Comparision 
+>> Value Comparision.
+
+## FOR USER DEFINE CLASS
+>> REFERENCE Comparision
+>> Value Comparision
+
+## Object Class
+	equals() 
+	hashCode()
+	
+## DEBUGGING IN ECLISPE
+## API DOCS
+
+
+STATIC_BLOCK
+INIT BLOCK
+Implment Bubble sort in java? with multiple approach.
+
+ 
