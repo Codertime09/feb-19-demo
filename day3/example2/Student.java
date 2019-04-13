@@ -2,8 +2,13 @@ public class Student {
 	private int id;
 	private String name;
 	
-	private static String collegeName = "CDAC";
-	private static int counter = 0;
+	private static String collegeName;
+	private static int counter;
+	
+	static {
+		collegeName = "CDAC";
+		counter = 0;
+	}
 	
 	
 	public Student(){
